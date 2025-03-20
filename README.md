@@ -9,6 +9,7 @@ Reset button - "Resets" the Grad to zero based on the current orientation of you
 ToDo:  
 1) Looks like crap - fixed sized PIP window e.t.c.
 2) GPS Speed.
+3) Checkboxes to Select Inclinometer or GPS Speed or Both
 
 ![](./Images/App1.png)
 
