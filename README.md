@@ -4,7 +4,9 @@ Displays gradient % on your Android Phone.
 
 Has picture-in-picture mode - so you can overlay on your favourite VESC controller app.
 
-ToDo:  GPS Speed.
+ToDo:  
+1) Looks like crap - fixed sized PIP window e.t.c.
+2) GPS Speed.
 
 ![](./Images/App1.png)
 
