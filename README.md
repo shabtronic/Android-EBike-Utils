@@ -6,6 +6,10 @@ Has picture-in-picture mode - so you can overlay on your favourite VESC controll
 
 Reset button - "Resets" the Grad to zero based on the current orientation of your phone.
 
+## Status
+
+Completely useless at the moment - needs filtering and cleaning up before it's a solid go to tool!
+
 ToDo:  
 1) Looks like crap - fixed sized PIP window e.t.c.
 2) GPS Speed.
