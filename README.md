@@ -17,4 +17,4 @@ ToDo:
 
 # Thoughts on Kotlin
 
-240 lines of code to display a button, a line of text and read a Phone sensor. Feels like classic over-engineering a SDK into a bloated unwieldy mess :)
+Took me 24 hours of faffing about to produce 240 lines of code to display a button, a line of text and read a Phone sensor. Feels like classic over-engineering a SDK into a bloated unwieldy mess :)
