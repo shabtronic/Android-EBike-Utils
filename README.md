@@ -13,3 +13,7 @@ ToDo:
 ![](./Images/App1.png)
 
 ![](./Images/App2.png)
+
+# Thoughts on Kotlin
+
+240 lines of code to display a button, a line of text and read a Phone sensor. Feels like classic over-engineering a SDK into a bloated unwieldy mess :)
